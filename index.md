@@ -14,4 +14,4 @@ The App reads sensor and HealthKit workout data solely to provide real-time metr
 The App does not integrate any third-party analytics, tracking SDKs, or advertising networks.
 
 ### 4. Contact
-If you have any questions or feedback regarding this policy, contact: [your-support-email@example.com]
+If you have any questions or feedback regarding this policy, submit an issue at https://github.com/dmlutz2/walker-deluxe/issues
