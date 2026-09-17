@@ -1,2 +1,2 @@
 # walker-deluxe-privacy
-privacy policy for walker deluxe IOS app
+privacy policy and support for walker deluxe IOS app
