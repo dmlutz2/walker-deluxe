@@ -1,4 +1,4 @@
-# Privacy Policy for Walker
+# Privacy Policy for Walker Deluxe
 
 Last updated: September 2026
 
